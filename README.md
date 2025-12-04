@@ -16,5 +16,5 @@ Software engineer working on LLM applications and agent systems. Exploring the l
 ### highlights
 
 - **[Nexus](https://github.com/nsouzaco/nexus)** — AI-powered assistant that unifies scattered business data across Notion, Google Drive, Airtable, and GitHub. Ask questions in plain English, get cited answers linked back to the source
-- **AI Math Tutor** — *details coming soon*
-- **Turing** — *details coming soon*
+- **[AI Math Tutor](https://github.com/nsouzaco/ai-math-tutor)** — AI-powered tutor that uses the Socratic method to guide students through problem-solving without giving direct answers
+- **[SmartTutor](https://github.com/nsouzaco/tutoringplatform)** — web-based tutoring platform connecting students with expert tutors for one-on-one video sessions, powered by AI insights and quality tracking
