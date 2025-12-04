@@ -4,7 +4,7 @@
 
 ### now
 
-exploring the intersection of **context engineering**, **prompt design**, and **agent orchestration** — figuring out how to build apps that actually work when you hand the wheel to an LLM.
+Software engineer working on LLM applications and agent systems. Exploring the limits of context engineering, prompt design, and agent orchestration. Focused on leveraging AI to ship faster without sacrificing code quality.
 
 ### learning
 
@@ -15,5 +15,6 @@ exploring the intersection of **context engineering**, **prompt design**, and **
 
 ### highlights
 
+- **[Nexus](https://github.com/nsouzaco/nexus)** — AI-powered assistant that unifies scattered business data across Notion, Google Drive, Airtable, and GitHub. Ask questions in plain English, get cited answers linked back to the source
 - **AI Math Tutor** — *details coming soon*
 - **Turing** — *details coming soon*
